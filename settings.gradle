@@ -1,0 +1,3 @@
+rootProject.name = 'Asteroids'
+include ':2d_engine'
+project(':2d_engine').projectDir = file('../java-2d-engine')
